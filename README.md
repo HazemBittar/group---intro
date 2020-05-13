@@ -1,13 +1,14 @@
-# group---intro
-we are crew class 10 hackyourfuturebeglium! 
+# Group---intro
+we are crew class 10  hackyourfuturebeglium! 
 passionate to become professional software developers!
 
-* Coach
-Tiago
+## Coach
+* Tiago
+* Evan
 
-Team members:
+## Team members:
 
-* Ogla
+- [ogla](ogla.md)
 * Razvan
 * Sharaf
 * Ismail
