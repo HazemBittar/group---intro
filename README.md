@@ -4,14 +4,16 @@ passionate to become professional software developers!
 
 ## Coach
 * Tiago
-* Evan
+
 
 ## Team members:
 
 - [Ogla](Ogla.md)
-* Razvan
-- [Sharaf](Sharat.md)
-* Ismail
-* Kateryna
-* Hazem
+- [Ravzan](Ravzan.md)
+- [Sharaf](Sharad.md)
+-[Ismail](Ismail.md)
+-[Katryna](katryna.md)
+-[Hazem](hazem.md)
+
+
 
