@@ -11,9 +11,9 @@ passionate to become professional software developers!
 - [Ogla](Ogla.md)
 - [Ravzan](Ravzan.md)
 - [Sharaf](Sharad.md)
--[Ismail](Ismail.md)
--[Katryna](katryna.md)
--[Hazem](hazem.md)
+- [Ismail](Ismail.md)
+- [Katryna](katryna.md)
+- [Hazem](hazem.md)
 
 
 
