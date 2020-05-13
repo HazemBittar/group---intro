@@ -8,9 +8,9 @@ passionate to become professional software developers!
 
 ## Team members:
 
-- [ogla](ogla.md)
+- [Ogla](Ogla.md)
 * Razvan
-* Sharaf
+- [Sharaf](Sharat.md)
 * Ismail
 * Kateryna
 * Hazem
