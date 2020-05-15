@@ -3,7 +3,7 @@ we are crew class 10  hackyourfuturebeglium!
 passionate to become professional software developers!
 
 ## Coach
-[Taigo](Taigo.md)
+- [Taigo](Taigo.md)
 
 
 ## Team members:
