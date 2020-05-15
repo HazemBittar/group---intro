@@ -12,7 +12,7 @@ passionate to become professional software developers!
 - [Ravzan](Ravzan.md)
 - [Sharaf](Sharad.md)
 - [Ismail](Ismail.md)
-- [Kateryna](kateryna.md)
+- [Kateryna](Kateryna.md)
 - [Hazem](Hazem.md)
 
 
